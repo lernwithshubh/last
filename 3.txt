@@ -1,1 +1,2 @@
 this is 3rd file
+this is for 6.0
